@@ -1,6 +1,7 @@
-Weather App by TAASCODE 🌦️
+# Weather App by TAASCODE🌦️
 
-This Weather App was developed by TAASCODE, a team of students studying at Gabi School. The app provides real-time weather updates for any location and demonstrates our skills in React, Tailwind CSS, and modern web development.
+This Weather App was developed by TAASCODE, a team of students studying at Gabi School. 
+The app provides real-time weather updates for any location and demonstrates our skills in React, Tailwind CSS, and modern web development.
 
 🔗 Live Demo
 Check out the live app here: [Weather App by TAASCODE](https://673445a04396837af6a2bed0--willowy-choux-2916a8.netlify.app/)
@@ -21,6 +22,7 @@ Styling: Tailored with CSS/Framework to ensure an attractive and responsive desi
 
 
 🚀 Getting Started
+
 Prerequisites
 Node.js and npm installed on your machine.
 

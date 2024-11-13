@@ -22,7 +22,7 @@ API Integration: Integrated with a weather API to fetch and display real-time we
 Styling: Tailored with CSS/Framework to ensure an attractive and responsive design.
 
 
-🚀 ## Getting Started
+🚀 **Getting Started**
 
 Prerequisites
 Node.js and npm installed on your machine.
@@ -62,17 +62,9 @@ React - JavaScript library for building user interfaces
 [Weather API Provider] - Provides weather data
 CSS/Framework - For responsive and modern styling
 
-
-💻 Contributors
-TAASCODE is a team of students studying at Gabi School. Together, 
-they contributed to the design, functionality, and testing of this project to deliver a seamless user experience.
-
-
-📝 License
+📝 **License**
 This project is licensed under the MIT License.
 
-
-🤝 Acknowledgments
+🤝 **Acknowledgments**
 Special thanks to all team members for their hard work and dedication in building this app. 
 Thanks to the [Weather API Provider] for enabling access to accurate weather data.
-

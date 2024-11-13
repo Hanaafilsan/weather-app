@@ -3,17 +3,18 @@
 This Weather App was developed by TAASCODE, a team of students studying at Gabi School. 
 The app provides real-time weather updates for any location and demonstrates our skills in React, Tailwind CSS, and modern web development.
 
-🔗 Live Demo
+🔗 **Live Demo**
 Check out the live app here: [Weather App by TAASCODE](https://673445a04396837af6a2bed0--willowy-choux-2916a8.netlify.app/)
 
 
-🌟 Features
+🌟 **Features**
 Real-Time Weather Updates: Get accurate, up-to-date weather information.
 Location-Based Forecasts: Simply type in the location to receive relevant weather data.
 User-Friendly Interface: A clean, responsive design that works smoothly on all devices.
 Extended Forecasts: View current, hourly, and weekly forecasts to plan ahead.
 Visual Cues: Weather conditions represented with icons and colors for quick understanding.
-📂 Project Structure
+
+📂 **Project Structure**
 This project is structured as follows:
 
 Frontend: Built with React for dynamic, single-page application capabilities.
@@ -21,7 +22,7 @@ API Integration: Integrated with a weather API to fetch and display real-time we
 Styling: Tailored with CSS/Framework to ensure an attractive and responsive design.
 
 
-🚀 Getting Started
+🚀 ## Getting Started
 
 Prerequisites
 Node.js and npm installed on your machine.
@@ -56,7 +57,7 @@ Node.js and npm installed on your machine.
    ```
 
 
-🛠️ Built With
+🛠️ **Built With**
 React - JavaScript library for building user interfaces
 [Weather API Provider] - Provides weather data
 CSS/Framework - For responsive and modern styling

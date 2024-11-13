@@ -68,3 +68,9 @@ This project is licensed under the MIT License.
 🤝 **Acknowledgments**
 Special thanks to all team members for their hard work and dedication in building this app. 
 Thanks to the [Weather API Provider] for enabling access to accurate weather data.
+
+
+
+@copyright
+
+This project is developed by TAASCODE 

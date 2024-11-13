@@ -1,9 +1,10 @@
 Weather App by TAASCODE 🌦️
-Welcome to the Weather App, built by the TAASCODE team! This application provides users with up-to-date weather information for any location they search. 
-It’s designed to be simple, accurate, and visually appealing, allowing users to access current weather conditions, forecasts, and additional weather details.
+
+This Weather App was developed by TAASCODE, a team of students studying at Gabi School. The app provides real-time weather updates for any location and demonstrates our skills in React, Tailwind CSS, and modern web development.
 
 🔗 Live Demo
-Check out the live app here: Weather App by TAASCODE
+Check out the live app here: [Weather App by TAASCODE](https://673445a04396837af6a2bed0--willowy-choux-2916a8.netlify.app/)
+
 
 🌟 Features
 Real-Time Weather Updates: Get accurate, up-to-date weather information.
